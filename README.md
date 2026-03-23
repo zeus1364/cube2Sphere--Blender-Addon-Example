@@ -197,3 +197,18 @@ It represents a complete arc:
 
 Script → Debugging → Production Pipeline → Addon → Feature Expansion
 
+## Demonstration
+
+Below is a demonstration of the tool in action, showing the full cube → sphere → cube transformation sequence, along with the streamlined N‑Panel interface created during the development process.
+
+### Cube → Sphere → Cube
+
+![Cube State](cubeState.png)
+![Sphere State](sphereState.png)
+![Cube State Again](cubeStateAgain.png)
+
+### N‑Panel Interface
+
+![N‑Panel UI](UI_Example.png)
+
+
